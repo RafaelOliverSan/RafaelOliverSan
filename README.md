@@ -16,7 +16,7 @@
 
 ## Um pouco mais sobre mim...
 
-Depois de ter sofrido um acidente que me deixou em uma cadeira de rodas tive que me redescobri, e foi através dessas novas descobertas que veio a paixão pela programação. Hoje sou movido pela vontade de aprender cada vez mais na esperança de um dia mudar a minha vida e de muitas outras pessoas através da técnologia.<br/>
+Depois de ter sofrido um acidente que me deixou em uma cadeira de rodas tive que me redescobrir, e foi através dessas novas descobertas que veio a paixão pela programação. Hoje sou movido pela vontade de aprender cada vez mais na esperança de um dia mudar a minha vida e de muitas outras pessoas através da técnologia.<br/>
 
 ## Minhas redes sociais:
 
