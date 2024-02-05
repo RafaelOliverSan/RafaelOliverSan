@@ -1,8 +1,10 @@
 ### Olá!!! Eu sou o Rafael. 👋♿(PCD)
 🤓 Estudante de Desenvolvimento de Sistemas pela ETEC Jorge Street e Centro Paula Souza (CPS).
 
-![RafaelOliverSan GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelOliverSan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelOliverSan&hide_progress=true&theme=dracula)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelOliverSan&show_icons=true&theme=radical)
+
 
 ## Técnologias que estudo e uso no meu dia a dia.
 
